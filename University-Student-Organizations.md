@@ -308,6 +308,11 @@ active. Or a pull request, or otherwise get the attention of the maintainer,
       * [Facebook Group](https://www.facebook.com/groups/SudoHoot/)
       * [Blog](http://blog.sudohoot.com/)
       * [Job Board](http://jobs.sudohoot.com/)
+      
+##### Swarthmore College
+  * [Swarthmore W+iCS](https://www.cs.swarthmore.edu/wics/)
+  * [Facebook Page](https://www.facebook.com/SwatWICS/)
+  * [Facebook Group](https://www.facebook.com/groups/1785422891703191/)
 
 ##### University of Pennsylvania
   * [Penn WiCS](http://wics.cis.upenn.edu/)
